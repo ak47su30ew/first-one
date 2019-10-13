@@ -1,1 +1,2 @@
-
+## Steps : ##
+* Fork the repo
